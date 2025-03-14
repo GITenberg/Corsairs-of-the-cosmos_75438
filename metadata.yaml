@@ -1,0 +1,41 @@
+_repo: Corsairs-of-the-cosmos_75438
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hammond, H. R.
+    alias: Hammond, J. R.
+    gutenberg_agent_id: '56113'
+    url: http://www.gutenberg.org/2009/agents/56113
+creator:
+  author:
+    agent_name: Hamilton, Edmond
+    alias: Sterling, Brett
+    birthdate: 1904
+    deathdate: 1977
+    gutenberg_agent_id: '26787'
+    url: http://www.gutenberg.org/2009/agents/26787
+    wikipedia: https://en.wikipedia.org/wiki/Edmond_Hamilton
+description: ''
+gutenberg_issued: '2025-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75438'
+language: en
+pgterms:marc905: 20250126092419hamilton
+pgterms:marc906: '1934'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aIndianapolis, IN :$bPopular Fiction Publishing Company, $c1934.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Interstellar Patrol, 8
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Space warfare -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Corsairs of the cosmos
+url: http://www.gutenberg.org/ebooks/75438
