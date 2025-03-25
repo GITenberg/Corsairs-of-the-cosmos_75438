@@ -6,6 +6,9 @@ contributor:
     alias: Hammond, J. R.
     gutenberg_agent_id: '56113'
     url: http://www.gutenberg.org/2009/agents/56113
+covers:
+- cover_type: archival
+  image_path: 75438-h/images/cover.jpg
 creator:
   author:
     agent_name: Hamilton, Edmond
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26787
     wikipedia: https://en.wikipedia.org/wiki/Edmond_Hamilton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75438#Corsairs-of-the-cosmos
 gutenberg_issued: '2025-02-21'
 gutenberg_type: Text
 identifiers:
